@@ -6,7 +6,7 @@
 *.parquet
 *.csv
 *.feather
-
+data-remote/
 
 ### Python ###
 # Byte-compiled / optimized / DLL files
