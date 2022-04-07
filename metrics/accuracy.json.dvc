@@ -1,0 +1,4 @@
+outs:
+- md5: 7e74c7997fec7779ddcf7834493eb17f
+  size: 32
+  path: accuracy.json
