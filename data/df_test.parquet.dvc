@@ -1,4 +1,0 @@
-outs:
-- md5: 9314ef9ea68065ee32b40c1dceb64574
-  size: 12281
-  path: df_test.parquet
