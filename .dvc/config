@@ -1,4 +1,4 @@
 [core]
-    remote = localremote
-['remote "localremote"']
-    url = ../data-remote
+    remote = local-repo
+['remote "local-repo"']
+    url = ../local-repo
